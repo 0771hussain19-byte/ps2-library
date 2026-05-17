@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PS2 Library (موسوعة بلايستيشن 2)
 
 A comprehensive tribute website dedicated to the legendary PlayStation 2 console, celebrating its cultural and technological impact on the gaming world.
@@ -66,4 +65,3 @@ To view the website, simply open the HTML files in any modern web browser. No ad
 ## Author
 
 Developed by Hussain as an academic project.
->>>>>>> 21ec9d87fdc7f98ecc4a2da8b0f9cb5b8c7af69d
